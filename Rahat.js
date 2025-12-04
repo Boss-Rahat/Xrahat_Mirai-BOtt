@@ -340,13 +340,13 @@ loginApiData.setOptions(global.config.FCAOption)
         };
         if (!global.checkBan) logger(global.getText('rxabdullah', 'warningSourceCode'), '[ GLOBAL BAN ]');
         global.client.api = loginApiData
-        logger(`🔥 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 🔥`, '🔥 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 🔥');
-        logger(`⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡`, '⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡');
-        logger(`⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡`, '⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡');
-        logger(`⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡`, '⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡');
-        logger('⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡', '⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡');
-        logger(`⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡`, '⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡\n⚡    🔰  𝙍𝘼𝙃𝘼𝙏_𝙄𝙎𝙇𝘼𝙈 🔰 ⚡\n⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡');
-        logger("🔥 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 🔥", '🔥 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 🔥');
+        logger(`successful`, 'successful');
+        logger(`Rahat Bot`, 'Rahat Bot');
+        logger(`Rahat Bot`, 'Rahat Bot');
+        logger(`Rahat Bot`, 'Rahat Bot');
+        logger('Rahat Bot', 'Rahat Bot');
+        logger(`Rahat Bot`, 'Rahat Bot');
+        logger("successful", 'successful');
       
     });
 }
